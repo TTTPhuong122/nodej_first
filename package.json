@@ -1,0 +1,29 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon --inspect main.js",
+    "test": "echo \"Error: no test specifienpd\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TTTPhuong122/nodej_first.git"
+  },
+  "keywords": [
+    "nodejs_first"
+  ],
+  "author": "tttphuong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TTTPhuong122/nodej_first/issues"
+  },
+  "homepage": "https://github.com/TTTPhuong122/nodej_first#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
